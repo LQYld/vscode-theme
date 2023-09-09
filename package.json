@@ -1,9 +1,9 @@
 {
   "name": "doli-theme",
   "publisher": "lqyld",
-  "displayName": "Doli Theme for VS Code",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Doli Theme",
+  "description": "Doli Theme for VS Code",
+  "version": "0.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
