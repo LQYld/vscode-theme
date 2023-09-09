@@ -8,7 +8,6 @@
 <img alt="Case preview" src="./assets/vue-theme-demo.png">
 <br/>
 <br/>
-<br/>
 <img alt="Case preview" src="./assets/react-theme-demo.png">
 </p>
 
