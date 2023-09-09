@@ -6,6 +6,7 @@
 
 <p align="center">
 <img alt="Case preview" src="./assets/vue-theme-demo.png">
+<br/>
 <img alt="Case preview" src="./assets/react-theme-demo.png">
 </p>
 
