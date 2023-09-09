@@ -1,0 +1,42 @@
+{
+  "name": "doli-theme",
+  "publisher": "lqyld",
+  "displayName": "Doli Theme for VS Code",
+  "description": "",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LQYld/vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LQYld/vscode-theme.git/issues"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "Doli",
+    "doli",
+    "dark"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Doli Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Doli-color-dark-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "install vsce": "pnpm install vsce -g --save vsce",
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
+}
