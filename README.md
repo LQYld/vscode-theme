@@ -9,12 +9,23 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=lqyld.doli-theme" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/lqyld.doli-theme.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
-<p align="center">
-<img alt="Case preview" src="./assets/vue-theme-demo.png">
-<br/>
-<br/>
-<img alt="Case preview" src="./assets/react-theme-demo.png">
-</p>
+<h3 align="center">Universal</h3>
+
+|Vue|React|
+|--|--|
+|<img alt="Case preview" src="./assets/universal/vue-demo.png">|<img alt="Case preview" src="./assets/universal/react-demo.png">|
+
+<h3 align="center">Visual Studio</h3>
+
+|Vue|React|
+|--|--|
+|<img alt="Case preview" src="./assets/visual-studio/vue-demo.png">|<img alt="Case preview" src="./assets/visual-studio/react-demo.png">|
+
+<h3 align="center">Soft Green</h3>
+
+|Vue|React|
+|--|--|
+|<img alt="Case preview" src="./assets/soft-green/vue-demo.png">|<img alt="Case preview" src="./assets/soft-green/react-demo.png">|
 
 ## Thanks
 
