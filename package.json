@@ -28,9 +28,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Doli Dark Theme",
+        "label": "Doli Universal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Doli-color-dark-theme.json"
+        "path": "./themes/Doli-universal.json"
+      },
+      {
+        "label": "Doli Visual Studio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Doli-visual-studio.json"
+      },
+      {
+        "label": "Doli Soft Green",
+        "uiTheme": "vs",
+        "path": "./themes/Doli-soft-green.json"
       }
     ]
   },
