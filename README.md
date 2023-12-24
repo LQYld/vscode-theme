@@ -18,4 +18,4 @@
 
 ## Thanks
 
-This project is based on [vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse).
+[vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) · [soft-green](https://github.com/lainbo/soft-green)
