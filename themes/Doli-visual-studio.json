@@ -58,7 +58,7 @@
 		"list.inactiveSelectionBackground": "#383838",
     "list.activeSelectionBackground": "#383838",
     "list.inactiveFocusBackground": "#383838",
-    "list.focusBackground": "#fafafa",
+    "list.focusBackground": "#383838",
     "tab.activeForeground": "#fafafa",
     "tab.inactiveForeground": "#b2b2b2",
     "tab.inactiveBackground": "#2e2e2e",
