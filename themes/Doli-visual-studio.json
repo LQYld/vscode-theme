@@ -114,7 +114,7 @@
     "gitDecoration.submoduleResourceForeground": "#dedcd590",
 		"editorGutter.modifiedBackground": "#6394bf",
     "editorGutter.addedBackground": "#7160e8",
-		"diffEditor.insertedTextBackground": "#4d9375",
+		"diffEditor.insertedTextBackground": "#4d937522",
     "diffEditor.removedTextBackground": "#ab595922",
     "badge.foreground": "#1f1f1f",
     "badge.background": "#5b5b5b",
