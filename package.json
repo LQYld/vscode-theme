@@ -1,9 +1,9 @@
 {
-  "name": "doli-theme",
-  "publisher": "lqyld",
-  "displayName": "Doli Theme",
-  "description": "Doli Theme for VS Code",
-  "version": "0.2.3",
+  "name": "ethan-li-cyber-glow-theme",
+  "publisher": "EthanLi",
+  "displayName": "EthanLi's CyberGlow Theme",
+  "description": "CyberGlow Theme for VS Code",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,28 +19,30 @@
     "Themes"
   ],
   "keywords": [
-    "theme",
-    "Doli",
-    "doli",
-    "dark"
+    "Vscode",
+    "Theme",
+    "EthanLi",
+    "Universal",
+    "Visual Studio",
+    "Turquoise"
   ],
   "icon": "icon.png",
   "contributes": {
     "themes": [
       {
-        "label": "Doli Universal",
+        "label": "EthanLi Turquoise Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Doli-universal.json"
+        "path": "./themes/EthanLi-turquoise-dark.json"
       },
       {
-        "label": "Doli Visual Studio",
+        "label": "EthanLi Universal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Doli-visual-studio.json"
+        "path": "./themes/EthanLi-universal.json"
       },
       {
-        "label": "Doli Soft Green",
-        "uiTheme": "vs",
-        "path": "./themes/Doli-soft-green.json"
+        "label": "EthanLi Visual Studio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EthanLi-visual-studio.json"
       }
     ]
   },
