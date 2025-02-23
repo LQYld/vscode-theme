@@ -3,7 +3,7 @@
   "publisher": "EthanLi",
   "displayName": "EthanLi's CyberGlow Theme",
   "description": "CyberGlow Theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "Visual Studio",
     "Turquoise"
   ],
-  "icon": "icon.png",
+  "icon": "logo.png",
   "contributes": {
     "themes": [
       {
