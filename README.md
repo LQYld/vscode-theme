@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./icon.png" alt="logo" width="250">
+<img src="./logo.png" alt="logo" width="250">
 
 <h1 align="center">EthanLi's CyberGlow Theme</h1>
 
